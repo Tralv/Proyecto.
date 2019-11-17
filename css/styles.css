@@ -153,8 +153,8 @@ padding-top: 170px;
 /* WARNING: pie de pagina */
 #main-footer{
   text-align: center;
-  background: green;
-  color: blue;
+  background: DARKGRAY;
+  color: red;
   padding: 20px;
 }
 .l-heding{
